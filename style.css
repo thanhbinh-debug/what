@@ -1,0 +1,46 @@
+.app {
+  width: 100%;
+  text-align: center;
+}
+
+.nd1 {
+  text-align: center;
+  background-color: linen;
+  padding: 30px;
+  border-radius: 70px;
+}
+
+.ha1 {
+  background-color: chartreuse;
+  border-radius: 30px;
+  width: 50px;
+  border: 3px solid white;
+  text-decoration: none;
+  letter-spacing: 2px;
+  line-height: 2px;
+}
+
+a:hover {
+  color: black;
+  background-color: white;
+}
+
+p {
+  font-size: 25px;
+  color: red;
+}
+
+.nd2 img {
+  width: 100px;
+  text-align: justify;
+  border: 2px solid rgb(203, 163, 83);
+}
+
+.gx1 {
+  width: 500px;
+}
+
+.t1 {
+  border-top: 5px;
+  text-decoration: none;
+}
